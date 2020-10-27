@@ -1,0 +1,23 @@
+body{
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+  border-color: rgb(0, 0, 0);
+}
+.img-2{
+  width: 100px;
+}
+.Title{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.h2{
+  font-family: 'Montserrat', sans-serif;
+}
+.Container-2{
+  font-size: 20px;
+}
+
+.Contact{
+  font-size: 10px;
+}
